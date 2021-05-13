@@ -12,3 +12,15 @@ Se ejecuta el interior del bucle for
   Mostrar "Numero inicial es: " mas la cantidad almacenada en la variable "num"
   se evalua la condicion del bucle while (num>9) y se verfica que devuelva un valor boolean true
   Se ejecuta el interior del bucle while
+        Se inicializa la variable (int) "producto" con valor 1.
+	Multiplicar número entero (int) almacenado en la variable "producto" por el entero almacenado en la variable "unidades".
+	Se almacena en la variable "num" el resultado de la operación "(num - unidades) / 10".
+	Se repite hasta que la condición del bucle (while) devuelva un boolean "false".
+  Se incrementa en 1 el valor almacenado en la variable "repeticiones".
+  Mostrar "Producto" más el valor almacenado en la variable (int) repeticiones más "numero es: " más el valor almacenado en la variable (int) producto.
+  Se iguala la variable (int) "num" al valor almacenado en la variable (int) "producto".
+  Se repite hasta que la condición del bucle (while) devuelva un boolean "false".
+Muestra "La persistencia es: " más el valor almacenado en la variable (int) repeticiones.
+Muestra " "
+Se repite hasta que la condición del bucle (for) devuelva un boolean "false".
+Fin.
