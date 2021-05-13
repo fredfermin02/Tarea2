@@ -12,4 +12,3 @@ Se ejecuta el interior del bucle for
   Mostrar "Numero inicial es: " mas la cantidad almacenada en la variable "num"
   se evalua la condicion del bucle while (num>9) y se verfica que devuelva un valor boolean true
   Se ejecuta el interior del bucle while
-  --
