@@ -1,3 +1,14 @@
-Persistencia multiplicativca de un numero ingresado por el usuario
-
-Prueba3
+Persistencia multiplicativa de un numero ingresado por el usuario
+Inicio
+Muestra "Cuantos numeros desea ingresar"
+Se declara la variable (int) "CanNum"
+La variable (int) "CanNum" almacena el valor (convertido de string a int) introducido por el usuario
+Se evalua la condicion del bucle for (int i=0; i< CanNum; i++) y se verfica que devuelva un valor boolean true
+Se ejecuta el interior del bucle for
+  Mostrar "Ingrese un numero para buscar su Persistencia multiplicativa"
+  Se declara la variable (int) "num"
+  La variable "num" almacena el valor (convertido de string a int) introducido por el usuario.
+  Se inicializa la variable (int) "repeticiones" con valor 0.
+  Mostrar "Numero inicial es: " mas la cantidad almacenada en la variable "num"
+  se evalua la condicion del bucle while (num>9) y se verfica que devuelva un valor boolean true
+  Se ejecuta el interior del bucle while
