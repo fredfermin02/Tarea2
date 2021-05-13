@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Persistencia multiplicativa de un numero ingresado por el usuario
 Inicio
 Muestra "Cuantos numeros desea ingresar"
@@ -12,3 +13,9 @@ Se ejecuta el interior del bucle for
   Mostrar "Numero inicial es: " mas la cantidad almacenada en la variable "num"
   se evalua la condicion del bucle while (num>9) y se verfica que devuelva un valor boolean true
   Se ejecuta el interior del bucle while
+  
+=======
+Persistencia multiplicativca de un numero ingresado por el usuario
+
+Prueba4
+>>>>>>> a04273e7b01497d9cfc6bb4820b3fee836a72187
