@@ -1,9 +1,0 @@
-Persistencia multiplicativa casos de prueba
-I: 37
-  Iter1: 3*7=21
-  Iter2: 2*1=2
-  PM = 2
-I: 257
-  Iter1: 2*5*7=70
-  Iter2: 7*0= 0
-  PM = 2
