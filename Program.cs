@@ -6,18 +6,18 @@ namespace Programas
     {
         static void Main(string[] args)
         {
-            Console.Clear();
+          Console.WriteLine("Cuantos numeros desea ingresa");
+          int CanNum = 0;
+          CanNum = int.Parse(Console.ReadLine());
+          for (int i = 0; i < CanNum; i++)
+          {
+            Console.WriteLine("Ingrese un numero para buscar su Persistencia multiplicativa");
+            int num = 0;
+            num = int.Parse(Console.ReadLine());
+            int repeticiones = 0;
+            Console.WriteLine("Numero iniciales: " + num);
 
-            Console.WriteLine("Introduzca un número: ");
-            int num = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("El primer digito de ese numero es: " + num);
-            Console.WriteLine("Hola");
-
-            Console.WriteLine();
-            Console.WriteLine("Presione cualquier tecla para finalizar...");
-            Console.ReadKey();
-
+          }
         }
 
     }
