@@ -15,7 +15,7 @@ namespace Programas
             int num = 0;
             num = int.Parse(Console.ReadLine());
             int repeticiones = 0;
-            Console.WriteLine("Numero iniciales: " + num);
+            Console.WriteLine("Numero iniciales:  " + num);
 
           }
         }
