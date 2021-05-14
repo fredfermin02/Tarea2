@@ -16,6 +16,26 @@ namespace Programas
             num = int.Parse(Console.ReadLine());
             int repeticiones = 0;
             Console.WriteLine("Numero iniciales:  " + num);
+            
+            while(num>9){
+            
+                int producto = 1;
+                while(num != 0){
+
+                    int unidades = num % 10;
+                    producto *= unidades;
+                    num = (num - unidades) / 10;
+
+                }
+
+                repeticiones++;
+                Console.WriteLine("Producto" + repeticiones + " numero es: " + producto);
+                num = producto;
+            
+            }
+
+            Console.WriteLine("La persistencia es: " + repeticiones);
+            Console.WriteLine();
 
           }
         }
