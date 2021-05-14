@@ -12,6 +12,7 @@ namespace Programas
             int num = int.Parse(Console.ReadLine());
 
             Console.WriteLine("El primer digito de ese numero es: " + num);
+            Console.WriteLine("Hola");
 
             Console.WriteLine();
             Console.WriteLine("Presione cualquier tecla para finalizar...");
